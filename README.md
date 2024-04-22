@@ -17,7 +17,7 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srijansrivastava1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijansrivastava1202/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srijansrivastava1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/isrijansrivastava1202/" height="30" width="40" /></a>
 <a href="https://instagram.com/srijan.0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan.0_0" height="30" width="40" /></a>
 </p>
 
