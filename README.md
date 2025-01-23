@@ -15,10 +15,10 @@
 
 ## About Me
 
-- 🖥️ Currently working on **ClubSpot**
-- 🌱 Learning **Next.js** to enhance my full-stack development skills
-- 🤝 Open to collaborating on innovative and exciting projects
-- 💬 Ask me about web development, React, or any tech-related topics
+-  Currently working on **ClubSpot**
+-  Learning **Next.js** to enhance my full-stack development skills
+-  Open to collaborating on innovative and exciting projects
+-  Ask me about web development, React, or any tech-related topics
 
 ## Tech Stack
 
