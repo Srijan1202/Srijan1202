@@ -16,9 +16,9 @@
 ## About Me
 
 -  Currently working on **FitOS**
--  Learning **Next.js** to enhance my full-stack development skills
+-  Learning **Flutter** to enhance my App development skills
 -  Open to collaborating on innovative and exciting projects
--  Ask me about web development, React, or any tech-related topics
+-  Ask me about web development, React, next.js or any tech-related topics
 
 ## Tech Stack
 
