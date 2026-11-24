@@ -1,6 +1,6 @@
 <div align="center">
   <!-- New Custom Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=Srijan%20Srivastava&fontSize=60&fontColor=2ea44f&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer&descAlignY=70&descAlign=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0D1117&height=200&section=header&text=Sijan%20Srivastava&fontSize=60&fontColor=2ea44f&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer&descAlignY=70&descAlign=68" width="100%" />
 
   <!-- Animated Typing -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=440&lines=Creative+Problem+Solver;Always+learning%2C+always+growing" alt="Typing SVG" /></a>
@@ -18,7 +18,7 @@
 -  Currently working on **FitOS**
 -  Learning **Flutter** to enhance my App development skills
 -  Open to collaborating on innovative and exciting projects
--  Ask me about web development, React, next.js or any tech-related topics
+-  Ask me about web development, React or any tech-related topics
 
 ## Tech Stack
 
