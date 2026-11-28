@@ -24,7 +24,7 @@
 
 <div align="center">
 
-| Frontend | Backend | Tools & Technologies |
+| Frontend | Backend | Tools & Tech|
 |:--------:|:-------:|:--------------------:|
 | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp" /> | <img src="https://skillicons.dev/icons?i=git,docker,aws,nginx,mysql,webpack" /> |
 
